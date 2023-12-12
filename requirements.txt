@@ -3,3 +3,5 @@ pandas
 streamlit
 numpy
 scikit-learn
+pycaret
+xgboost
